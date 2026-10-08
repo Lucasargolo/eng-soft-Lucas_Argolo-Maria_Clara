@@ -2,3 +2,4 @@
 Integrantes: 
 Lucas Argolo - Ciência da computação
 Maria Clara - Ciência da computação
+Teste para commit change 
